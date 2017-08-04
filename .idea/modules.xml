@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/worker.iml" filepath="$PROJECT_DIR$/.idea/worker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worker-union-callback/worker-union-callback.iml" filepath="$PROJECT_DIR$/worker-union-callback/worker-union-callback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worker-union-fm/worker-union-fm.iml" filepath="$PROJECT_DIR$/worker-union-fm/worker-union-fm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worker-union-pm/worker-union-pm.iml" filepath="$PROJECT_DIR$/worker-union-pm/worker-union-pm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worker-union-service/worker-union-service.iml" filepath="$PROJECT_DIR$/worker-union-service/worker-union-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worker-union-service-support/worker-union-service-support.iml" filepath="$PROJECT_DIR$/worker-union-service-support/worker-union-service-support.iml" />
+    </modules>
+  </component>
+</project>

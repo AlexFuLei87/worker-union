@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="worker-union-pm:war">
+    <output-path>$PROJECT_DIR$/worker-union-pm/target</output-path>
+    <root id="archive" name="worker-union-pm.war">
+      <element id="artifact" artifact-name="worker-union-pm:war exploded" />
+    </root>
+  </artifact>
+</component>

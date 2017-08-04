@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: top.warmheart:server-util:1.2.9-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/top/warmheart/server-util/1.2.9-SNAPSHOT/server-util-1.2.9-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/top/warmheart/server-util/1.2.9-SNAPSHOT/server-util-1.2.9-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/top/warmheart/server-util/1.2.9-SNAPSHOT/server-util-1.2.9-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
